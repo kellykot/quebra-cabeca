@@ -4,4 +4,10 @@
   background-color: black;
 
 }
- .quebra-cabeca
+ .quebra-cabeca{
+     width: 900px;
+     height: 400px;
+     display: flex;
+     flex-wrap: wrap;
+
+ }
